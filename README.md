@@ -6,10 +6,10 @@ Computer Science major 2024, worked on Python, C/C++, JavaScript. JavaScript is 
 
 ## Working Deployed Web apps:
 
-https://ldfx.vercel.app/ <br />
-https://not-dnd-tool.vercel.app/ <br />
-https://dhd-dom.vercel.app/ <br />
-https://random-civ-plus.vercel.app/ <br />
+https://ldfx.vercel.app/ <br>
+https://not-dnd-tool.vercel.app/ <br>
+https://dhd-dom.vercel.app/ <br>
+https://random-civ-plus.vercel.app/ <br>
 
 ## Languages and Tools:
 Python, C/C++, JavaScript, React, Express, NodeJs, Svelte, mySQL, HTML, CSS
