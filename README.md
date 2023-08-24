@@ -9,13 +9,12 @@ Computer Science major 2024, worked on Python, C/C++, JavaScript. JavaScript is 
 https://ldfx.vercel.app/
 https://not-dnd-tool.vercel.app/
 https://dhd-dom.vercel.app/
-
+https://random-civ-plus.vercel.app/
 
 ## Languages and Tools:
 Python, C/C++, JavaScript, React, Express, NodeJs, Svelte, mySQL, HTML, CSS
 
 #### 🔭 I’m currently working on: 
-Making a Table Top RPG tool, Making a Civilization 5 tool and working on P2P multiplayer game
 #### 🌱 I’m currently learning :
 Both Full Stack Web Dev along with p2p decentralized apps, and Deep learning with Python 
 
