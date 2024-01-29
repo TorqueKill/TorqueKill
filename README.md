@@ -22,14 +22,12 @@ I've developed and deployed several web applications, showcasing my skills in fu
 - [Game Tool](https://random-civ-plus.vercel.app/)
 
 ## Proficiencies
-- **Languages:** Python, C/C++, JavaScript
+- **Languages:** Python, C/C++/C#, JavaScript/Typescript, GO
 - **Front-end:** React, Svelte, HTML, CSS
-- **Back-end:** Node.js, Express
-- **Database:** MySQL
-- **Other Tools:** Git, Docker, Jenkins
+- **Back-end:** Node.js, Express, SocketIO, Axios
+- **Database:** MySQL, Supabase
+- **Other Tools:** Git, Heroku, Vercel, Postman, AWS lambda, Ocean digital, Stable Diffusion
 
 I am always eager to learn more and take on new challenges. If you have any questions or would like to discuss potential collaborations, feel free to reach out!
 
 ---
-
-This version adds more structure and personal touch to your README, making it more appealing and informative for readers.
