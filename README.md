@@ -14,8 +14,5 @@ https://random-civ-plus.vercel.app/ <br>
 ## Languages and Tools:
 Python, C/C++, JavaScript, React, Express, NodeJs, Svelte, mySQL, HTML, CSS
 
-#### 🔭 I’m currently working on: 
-#### 🌱 I’m currently learning :
-Both Full Stack Web Dev along with p2p decentralized apps, and Deep learning with Python 
 
 
