@@ -15,7 +15,7 @@ My affinity for C/C++ stems from its close interaction with hardware and lower-l
 ## Deployed Web Applications
 I've developed and deployed several web applications, showcasing my skills in full-stack development. Feel free to explore these projects:
 
-- [Trivia App](https://p01-jam.vercel.app/)
+- [Trivia App - Senior Year Project](https://p01-jam.vercel.app/)
 - [Forums App](https://ldfx.vercel.app/)
 - [Management Tool](https://not-dnd-tool.vercel.app/)
 - [Doctor Appointment App](https://dhd-dom.vercel.app/)
