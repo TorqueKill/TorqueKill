@@ -7,7 +7,7 @@ I am a Computer Science Major, graduating in 2024, with a passion for creating i
 JavaScript stands out as my favorite language. Its versatility in creating reactive web applications fascinates me. I find immense satisfaction in deploying applications on the web and witnessing people interact with my creations through a simple link. I have amassed **4+ years of experience** working with **NodeJS** both in **frontend** and **backend**.
 
 ## Exploring Data Science with Python
-Python has opened the doors to the world of data science for me. I'm particularly intrigued by Machine Learning and Deep Learning models. Experimenting with open-source projects like Stable Diffusion has been an enlightening experience, further fueling my interest in this field. For one of the projects, 
+Python has opened the doors to the world of data science for me. I'm particularly intrigued by Machine Learning and Deep Learning models. Experimenting with open-source projects like Stable Diffusion has been an enlightening experience, further fueling my interest in this field. For one of the projects, developing a complete **U-Net Crop Segmentation** model has given me great insights into **designing**, **implementing** and **testing** complex models.
 
 ## C/C++: The Gateway to Low-Level Programming
 My affinity for C/C++ stems from its close interaction with hardware and lower-level system operations. Working on projects like **shell parsers**, **file management**, and **efficient space management** (and occasionally tackling segmentation faults) has been both challenging and exhilarating.
