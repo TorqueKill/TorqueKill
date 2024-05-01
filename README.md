@@ -16,7 +16,9 @@ My affinity for C/C++ stems from its close interaction with hardware and lower-l
 I've developed and deployed several web applications, showcasing my skills in full-stack development. Feel free to explore these projects:
 
 - [Trivia App - Senior Year Project](https://p01-jam.vercel.app/)
+- [Gen AI Project](https://gai-project.vercel.app/)
 - [Forums App](https://ldfx.vercel.app/)
+- [Sports Betting App](https://dream-now.vercel.app/)
 - [Management Tool](https://not-dnd-tool.vercel.app/)
 - [Doctor Appointment App](https://dhd-dom.vercel.app/)
 - [Game Tool](https://random-civ-plus.vercel.app/)
